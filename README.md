@@ -22,7 +22,7 @@ As a user, I want the ability to...
 
 ## Wireframes / Screenshots
 
-![](file:///Users/katanaman/Desktop/Wireframe%20p1.png)
+![myImg](wireframe-p1.png)
 
 ## Entity Relationship Diagrams (ERDs)
 
@@ -47,6 +47,7 @@ Obstacle: {
 function - gameloop - holds the entire logic that runs the game.
 function - pointCount - keeps score and ends game if point goal is reached.
 function - movementHandler - used to move the character around, attached to "up" and "down" arrow keys and "w" and "s" keys
+function - detectHit - used to see it character hit an obstacle
 
 
 
