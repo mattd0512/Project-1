@@ -23,6 +23,9 @@ As a user, I want the ability to...
 ## Wireframes / Screenshots
 
 ![myImg](wireframe-p1.png)
+![myImg](losescreen-wf.png)
+![myImg](winscreen-wf.png)
+
 
 ## Entity Relationship Diagrams (ERDs)
 
