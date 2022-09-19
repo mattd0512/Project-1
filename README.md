@@ -44,8 +44,8 @@ Obstacle: {
   alive: (a boolean that determines if game is in progress)
 }
 
-function - gameloop - holds the entire logic that runs the game
-function - pointCount - keeps score and ends game if point goal is reached
+function - gameloop - holds the entire logic that runs the game.
+function - pointCount - keeps score and ends game if point goal is reached.
 function - movementHandler - used to move the character around, attached to "up" and "down" arrow keys and "w" and "s" keys
 
 
