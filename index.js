@@ -1,3 +1,4 @@
+//Good job keeping your variables organized at the top
 const game = document.getElementById('canvas')
 const movement = document.getElementById('movement')
 
@@ -11,6 +12,7 @@ let score = 0;
 let gamespeed = 2;
 
 const gravity = 1
+//The comments you have are good, just make sure next time you have more so that other developers have an easier time reading your code
 
 // CHARACTER CREATION
 
